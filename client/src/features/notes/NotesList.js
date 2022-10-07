@@ -10,7 +10,7 @@ const NotesList = () => {
     error,
   } = useGetNotesQuery();
 
-  let content; //test
+  let content;
 
   if (isLoading) content = <p>Loading...</p>;
 
