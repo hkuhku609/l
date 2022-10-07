@@ -1,0 +1,20 @@
+20221005	21:04:23	bd0a7303-362f-455a-8bef-9f8a7326c1c7	Error: Not allowed by CORS	OPTIONS	/	https://www.google.com
+20221005	21:04:23	07dd12e4-21b3-4ff7-ba00-eb0361db9bc9	Error: Not allowed by CORS	GET	/	https://www.google.com
+20221005	23:03:55	644e0009-c5da-47fc-8e7a-82f6caa04822	SyntaxError: Unexpected token } in JSON at position 127	PATCH	/users	undefined
+20221005	23:06:22	52f8ddd3-8cd4-4f48-b994-c7f0053b4499	ReferenceError: usernam is not defined	PATCH	/users	undefined
+20221005	23:07:46	5621048e-1430-4e6b-b33b-3c45f9166df6	ReferenceError: _id is not defined	PATCH	/users	undefined
+20221005	23:08:37	2346930b-163e-4bed-84dc-92a364125806	ReferenceError: _id is not defined	PATCH	/users	undefined
+20221005	23:08:53	157488fe-37aa-4c3f-bdd7-aebaeb6c418e	ReferenceError: id is not defined	PATCH	/users	undefined
+20221005	23:08:55	3d50dbbb-dfe2-45f8-aa94-1b38e92df0f5	ReferenceError: id is not defined	PATCH	/users	undefined
+20221005	23:08:56	38a2f11a-9a87-4fcb-b706-63b842288ea9	ReferenceError: id is not defined	PATCH	/users	undefined
+20221005	23:13:20	36f70b40-3c6b-4a9b-b745-76b3d35aa760	ReferenceError: id is not defined	DELETE	/users	undefined
+20221005	23:14:30	8f3bda0a-5f32-49f1-9edd-d66c872174b1	ReferenceError: id is not defined	DELETE	/users	undefined
+20221005	23:15:25	9fae0bb3-5932-4ef8-941d-c22cc6484a99	ReferenceError: id is not defined	DELETE	/users	undefined
+20221005	23:16:29	22286fe0-836e-4807-a046-fbc200b28dd4	ReferenceError: id is not defined	DELETE	/users	undefined
+20221005	23:16:40	250d1ac2-264c-4ba3-a426-9ca61fa4905a	ReferenceError: id is not defined	DELETE	/users	undefined
+20221005	23:17:01	f30f2768-cf64-438b-8922-b332d743e16d	ReferenceError: id is not defined	DELETE	/users	undefined
+20221005	23:21:21	4d20eead-2c57-4418-b5dc-7f36d1fbb369	ReferenceError: id is not defined	DELETE	/users	undefined
+20221005	23:21:31	c3d09e03-8a7e-4544-8aec-d1be7d1b19d2	ReferenceError: id is not defined	DELETE	/users	undefined
+20221005	23:23:22	a99a73c8-cf2c-41f6-8d52-55a1c16ed859	ReferenceError: id is not defined	DELETE	/users	undefined
+20221007	01:08:42	0edf5551-11e1-4aa8-8762-54758451ac17	SyntaxError: Unexpected token E in JSON at position 65	POST	/users	undefined
+20221007	01:25:39	ff6afd32-091e-4563-b65d-76fe0247dfc8	ReferenceError: activ is not defined	PATCH	/users	undefined
